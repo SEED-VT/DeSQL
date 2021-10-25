@@ -238,18 +238,18 @@
       <root url="file://$PROJECT_DIR$/../spark-sql-debug/streaming/src/main/java" />
       <root url="file://$PROJECT_DIR$/../spark-sql-debug/streaming/src/main/scala" />
       <root url="file://$PROJECT_DIR$/../spark-sql-debug/streaming/src/test/java" />
-      <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/json" />
       <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions" />
-      <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/parser" />
-      <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/rules" />
-      <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/planning" />
-      <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees" />
-      <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/streaming" />
+      <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/json" />
       <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer" />
+      <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/parser" />
+      <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/planning" />
       <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans" />
+      <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/rules" />
+      <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/streaming" />
+      <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees" />
       <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/util" />
-      <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis" />
       <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst" />
+      <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis" />
     </SOURCES>
   </library>
 </component>
