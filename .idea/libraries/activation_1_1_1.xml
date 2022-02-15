@@ -248,8 +248,8 @@
       <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/streaming" />
       <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/trees" />
       <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/util" />
-      <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst" />
       <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis" />
+      <root url="file://$PROJECT_DIR$/../spark-sql-debug/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst" />
     </SOURCES>
   </library>
 </component>
