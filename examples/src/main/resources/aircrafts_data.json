@@ -1,0 +1,9 @@
+{ "aircraft_code1": "773", "model": "Boeing 777-300", "range": 11100 }
+{ "aircraft_code1": "763", "model": "Boeing 767-300", "range": 7900 }
+{ "aircraft_code1": "SU9", "model": "Sukhoi Superjet-100", "range": 3000 }
+{ "aircraft_code1": "700", "model": "Airbus A320-200", "range": 5700 }
+{ "aircraft_code1": "321", "model": "Airbus A321-200", "range": 5600 }
+{ "aircraft_code1": "319", "model": "Airbus A319-100", "range": 6700 }
+{ "aircraft_code1": "773", "model": "Boeing 737-300", "range": 4200 }
+{ "aircraft_code1": "CN1", "model": "Cessna 208 Caravan", "range": 1200 }
+{ "aircraft_code1": "CR2", "model": "Bombardier CRJ-200", "range": 2700 }

@@ -1,0 +1,1 @@
+Select * from customer inner join customer_demographics on customer.c_current_cdemo_sk = customer_demographics.cd_demo_sk

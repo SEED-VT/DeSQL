@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="spark-assembly_2.12,spark-avro_2.12,spark-catalyst_2.12,spark-core_2.12,spark-examples_2.12,spark-graphx_2.12,spark-hive_2.12,spark-kvstore_2.12,spark-launcher_2.12,spark-mllib-local_2.12,spark-mllib_2.12,spark-network-common_2.12,spark-network-shuffle_2.12,spark-parent_2.12,spark-repl_2.12,spark-sketch_2.12,spark-sql-kafka-0-10_2.12,spark-sql_2.12,spark-streaming-kafka-0-10-assembly_2.12,spark-streaming-kafka-0-10_2.12,spark-streaming_2.12,spark-tags_2.12,spark-token-provider-kafka-0-10_2.12,spark-tools_2.12,spark-unsafe_2.12">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <option name="explainTypeErrors" value="true" />
+      <parameters>
+        <parameter value="-target:jvm-1.8" />
+      </parameters>
+    </profile>
+  </component>
+</project>

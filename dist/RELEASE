@@ -1,0 +1,2 @@
+Spark 3.0.0 (git revision ec51d49de3) built for Hadoop 2.7.7
+Build flags: -Phadoop-2 -Dhadoop.version=2.7.7

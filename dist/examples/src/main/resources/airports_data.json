@@ -1,0 +1,104 @@
+{ "airport_code": "YKS", "airport_name": "Yakutsk Airport", "city": "Yakutsk", "coordinates_lat": "129.77099609375", "coordinates_long": "62.0932998657227", "timezone": "Asia/Yakutsk" }
+{ "airport_code": "MJZ", "airport_name": "Mirny Airport", "city": "Mirnyj", "coordinates_lat": "114.039001464844", "coordinates_long": "62.5346984863281", "timezone": "Asia/Yakutsk" }
+{ "airport_code": "KHV", "airport_name": "Khabarovsk-Novy Airport", "city": "Khabarovsk", "coordinates_lat": "135.18800354004", "coordinates_long": "48.52799987793", "timezone": "Asia/Vladivostok" }
+{ "airport_code": "PKC", "airport_name": "Yelizovo Airport", "city": "Petropavlovsk", "coordinates_lat": "158.453994750977", "coordinates_long": "53.1679000854492", "timezone": "Asia/Kamchatka" }
+{ "airport_code": "UUS", "airport_name": "Yuzhno-Sakhalinsk Airport", "city": "Yuzhno-Sakhalinsk", "coordinates_lat": "142.718002319336", "coordinates_long": "46.8886985778809", "timezone": "Asia/Sakhalin" }
+{ "airport_code": "VVO", "airport_name": "Vladivostok International Airport", "city": "Vladivostok", "coordinates_lat": "132.147994995117", "coordinates_long": "43.398998260498", "timezone": "Asia/Vladivostok" }
+{ "airport_code": "LED", "airport_name": "Pulkovo Airport", "city": "St. Petersburg", "coordinates_lat": "30.2625007629395", "coordinates_long": "59.8003005981445", "timezone": "Europe/Moscow" }
+{ "airport_code": "KGD", "airport_name": "Khrabrovo Airport", "city": "Kaliningrad", "coordinates_lat": "20.5925998687744", "coordinates_long": "54.8899993896484", "timezone": "Europe/Kaliningrad" }
+{ "airport_code": "KEJ", "airport_name": "Kemerovo Airport", "city": "Kemorovo", "coordinates_lat": "86.1072006225586", "coordinates_long": "55.2700996398926", "timezone": "Asia/Novokuznetsk" }
+{ "airport_code": "CEK", "airport_name": "Chelyabinsk Balandino Airport", "city": "Chelyabinsk", "coordinates_lat": "61.5033", "coordinates_long": "55.305801", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "MQF", "airport_name": "Magnitogorsk International Airport", "city": "Magnetiogorsk", "coordinates_lat": "58.7556991577148", "coordinates_long": "53.3931007385254", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "PEE", "airport_name": "Bolshoye Savino Airport", "city": "Perm", "coordinates_lat": "56.021198272705", "coordinates_long": "57.914501190186", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "SGC", "airport_name": "Surgut Airport", "city": "Surgut", "coordinates_lat": "73.4018020629883", "coordinates_long": "61.3437004089355", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "BZK", "airport_name": "Bryansk Airport", "city": "Bryansk", "coordinates_lat": "34.176399231", "coordinates_long": "53.2141990662", "timezone": "Europe/Moscow" }
+{ "airport_code": "MRV", "airport_name": "Mineralnyye Vody Airport", "city": "Mineralnye Vody", "coordinates_lat": "43.081901550293", "coordinates_long": "44.2251014709473", "timezone": "Europe/Moscow" }
+{ "airport_code": "STW", "airport_name": "Stavropol Shpakovskoye Airport", "city": "Stavropol", "coordinates_lat": "42.1128005981445", "coordinates_long": "45.1091995239258", "timezone": "Europe/Moscow" }
+{ "airport_code": "ASF", "airport_name": "Astrakhan Airport", "city": "Astrakhan", "coordinates_lat": "48.0063018799", "coordinates_long": "46.2832984924", "timezone": "Europe/Samara" }
+{ "airport_code": "NJC", "airport_name": "Nizhnevartovsk Airport", "city": "Nizhnevartovsk", "coordinates_lat": "76.4835968017578", "coordinates_long": "60.9492988586426", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "SVX", "airport_name": "Koltsovo Airport", "city": "Yekaterinburg", "coordinates_lat": "60.802700042725", "coordinates_long": "56.743099212646", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "SVO", "airport_name": "Sheremetyevo International Airport", "city": "Moscow", "coordinates_lat": "37.4146", "coordinates_long": "55.972599", "timezone": "Europe/Moscow" }
+{ "airport_code": "VOZ", "airport_name": "Voronezh International Airport", "city": "Voronezh", "coordinates_lat": "39.2295989990234", "coordinates_long": "51.8142013549805", "timezone": "Europe/Moscow" }
+{ "airport_code": "VKO", "airport_name": "Vnukovo International Airport", "city": "Moscow", "coordinates_lat": "37.2615013123", "coordinates_long": "55.5914993286", "timezone": "Europe/Moscow" }
+{ "airport_code": "SCW", "airport_name": "Syktyvkar Airport", "city": "Syktyvkar", "coordinates_lat": "50.845100402832", "coordinates_long": "61.6469993591309", "timezone": "Europe/Moscow" }
+{ "airport_code": "KUF", "airport_name": "Kurumoch International Airport", "city": "Samara", "coordinates_lat": "50.16429901123", "coordinates_long": "53.504901885986", "timezone": "Europe/Samara" }
+{ "airport_code": "DME", "airport_name": "Domodedovo International Airport", "city": "Moscow", "coordinates_lat": "37.9062995910645", "coordinates_long": "55.4087982177734", "timezone": "Europe/Moscow" }
+{ "airport_code": "TJM", "airport_name": "Roshchino International Airport", "city": "Tyumen", "coordinates_lat": "65.3243026733", "coordinates_long": "57.1896018982", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "GOJ", "airport_name": "Nizhny Novgorod Strigino International Airport", "city": "Nizhniy Novgorod", "coordinates_lat": "43.784000396729", "coordinates_long": "56.230098724365", "timezone": "Europe/Moscow" }
+{ "airport_code": "TOF", "airport_name": "Bogashevo Airport", "city": "Tomsk", "coordinates_lat": "85.208297729492", "coordinates_long": "56.380298614502", "timezone": "Asia/Krasnoyarsk" }
+{ "airport_code": "UIK", "airport_name": "Ust-Ilimsk Airport", "city": "Ust Ilimsk", "coordinates_lat": "102.565002441406", "coordinates_long": "58.136100769043", "timezone": "Asia/Irkutsk" }
+{ "airport_code": "NSK", "airport_name": "Norilsk-Alykel Airport", "city": "Norilsk", "coordinates_lat": "87.3321990966797", "coordinates_long": "69.3110961914062", "timezone": "Asia/Krasnoyarsk" }
+{ "airport_code": "ARH", "airport_name": "Talagi Airport", "city": "Arkhangelsk", "coordinates_lat": "40.7167015075684", "coordinates_long": "64.6003036499023", "timezone": "Europe/Moscow" }
+{ "airport_code": "RTW", "airport_name": "Saratov Central Airport", "city": "Saratov", "coordinates_lat": "46.0466995239258", "coordinates_long": "51.564998626709", "timezone": "Europe/Volgograd" }
+{ "airport_code": "NUX", "airport_name": "Novy Urengoy Airport", "city": "Novy Urengoy", "coordinates_lat": "76.5203018188477", "coordinates_long": "66.0693969726562", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "NOJ", "airport_name": "Noyabrsk Airport", "city": "Noyabrsk", "coordinates_lat": "75.2699966430664", "coordinates_long": "63.1833000183105", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "UCT", "airport_name": "Ukhta Airport", "city": "Ukhta", "coordinates_lat": "53.8046989440918", "coordinates_long": "63.5668983459473", "timezone": "Europe/Moscow" }
+{ "airport_code": "USK", "airport_name": "Usinsk Airport", "city": "Usinsk", "coordinates_lat": "57.3671989440918", "coordinates_long": "66.0046997070312", "timezone": "Europe/Moscow" }
+{ "airport_code": "NNM", "airport_name": "Naryan Mar Airport", "city": "Naryan-Mar", "coordinates_lat": "53.121898651123", "coordinates_long": "67.6399993896484", "timezone": "Europe/Moscow" }
+{ "airport_code": "PKV", "airport_name": "Pskov Airport", "city": "Pskov", "coordinates_lat": "28.3955993652344", "coordinates_long": "57.7839012145996", "timezone": "Europe/Moscow" }
+{ "airport_code": "KGP", "airport_name": "Kogalym International Airport", "city": "Kogalym", "coordinates_lat": "74.5337982177734", "coordinates_long": "62.1903991699219", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "KJA", "airport_name": "Yemelyanovo Airport", "city": "Krasnoyarsk", "coordinates_lat": "92.493301391602", "coordinates_long": "56.172901153564", "timezone": "Asia/Krasnoyarsk" }
+{ "airport_code": "URJ", "airport_name": "Uray Airport", "city": "Uraj", "coordinates_lat": "64.8266983032227", "coordinates_long": "60.1032981872559", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "IWA", "airport_name": "Ivanovo South Airport", "city": "Ivanovo", "coordinates_lat": "40.9407997131348", "coordinates_long": "56.9393997192383", "timezone": "Europe/Moscow" }
+{ "airport_code": "PYJ", "airport_name": "Polyarny Airport", "city": "Yakutia", "coordinates_lat": "112.029998779", "coordinates_long": "66.4003982544", "timezone": "Asia/Yakutsk" }
+{ "airport_code": "KXK", "airport_name": "Komsomolsk-on-Amur Airport", "city": "Komsomolsk-on-Amur", "coordinates_lat": "136.934005737305", "coordinates_long": "50.4090003967285", "timezone": "Asia/Vladivostok" }
+{ "airport_code": "DYR", "airport_name": "Ugolny Airport", "city": "Anadyr", "coordinates_lat": "177.740997314453", "coordinates_long": "64.7349014282227", "timezone": "Asia/Anadyr" }
+{ "airport_code": "PES", "airport_name": "Petrozavodsk Airport", "city": "Petrozavodsk", "coordinates_lat": "34.1547012329102", "coordinates_long": "61.8852005004883", "timezone": "Europe/Moscow" }
+{ "airport_code": "KYZ", "airport_name": "Kyzyl Airport", "city": "Kyzyl", "coordinates_lat": "94.4005966186523", "coordinates_long": "51.6693992614746", "timezone": "Asia/Krasnoyarsk" }
+{ "airport_code": "NOZ", "airport_name": "Spichenkovo Airport", "city": "Novokuznetsk", "coordinates_lat": "86.877197265625", "coordinates_long": "53.8114013671875", "timezone": "Asia/Novokuznetsk" }
+{ "airport_code": "GRV", "airport_name": "Khankala Air Base", "city": "Grozny", "coordinates_lat": "45.7840995788574", "coordinates_long": "43.2980995178223", "timezone": "Europe/Moscow" }
+{ "airport_code": "NAL", "airport_name": "Nalchik Airport", "city": "Nalchik", "coordinates_lat": "43.6366004943848", "coordinates_long": "43.5129013061523", "timezone": "Europe/Moscow" }
+{ "airport_code": "OGZ", "airport_name": "Beslan Airport", "city": "Beslan", "coordinates_lat": "44.6066017151", "coordinates_long": "43.2051010132", "timezone": "Europe/Moscow" }
+{ "airport_code": "ESL", "airport_name": "Elista Airport", "city": "Elista", "coordinates_lat": "44.3308982849121", "coordinates_long": "46.3739013671875", "timezone": "Europe/Moscow" }
+{ "airport_code": "SLY", "airport_name": "Salekhard Airport", "city": "Salekhard", "coordinates_lat": "66.6110000610352", "coordinates_long": "66.5907974243164", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "HMA", "airport_name": "Khanty Mansiysk Airport", "city": "Khanty-Mansiysk", "coordinates_lat": "69.0860977172852", "coordinates_long": "61.0284996032715", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "NYA", "airport_name": "Nyagan Airport", "city": "Nyagan", "coordinates_lat": "65.6149978637695", "coordinates_long": "62.1100006103516", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "OVS", "airport_name": "Sovetskiy Airport", "city": "Sovetskiy", "coordinates_lat": "63.6019134521484", "coordinates_long": "61.3266220092773", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "IJK", "airport_name": "Izhevsk Airport", "city": "Izhevsk", "coordinates_lat": "53.4575004577637", "coordinates_long": "56.8280982971191", "timezone": "Europe/Samara" }
+{ "airport_code": "KVX", "airport_name": "Pobedilovo Airport", "city": "Kirov", "coordinates_lat": "49.348300933838", "coordinates_long": "58.503299713135", "timezone": "Europe/Moscow" }
+{ "airport_code": "NYM", "airport_name": "Nadym Airport", "city": "Nadym", "coordinates_lat": "72.6988983154297", "coordinates_long": "65.4809036254883", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "NFG", "airport_name": "Nefteyugansk Airport", "city": "Nefteyugansk", "coordinates_lat": "72.6500015258789", "coordinates_long": "61.1082992553711", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "KRO", "airport_name": "Kurgan Airport", "city": "Kurgan", "coordinates_lat": "65.4156036376953", "coordinates_long": "55.4752998352051", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "EGO", "airport_name": "Belgorod International Airport", "city": "Belgorod", "coordinates_lat": "36.5900993347168", "coordinates_long": "50.643798828125", "timezone": "Europe/Moscow" }
+{ "airport_code": "URS", "airport_name": "Kursk East Airport", "city": "Kursk", "coordinates_lat": "36.2956008911133", "coordinates_long": "51.7505989074707", "timezone": "Europe/Moscow" }
+{ "airport_code": "LPK", "airport_name": "Lipetsk Airport", "city": "Lipetsk", "coordinates_lat": "39.5377998352051", "coordinates_long": "52.7028007507324", "timezone": "Europe/Moscow" }
+{ "airport_code": "VKT", "airport_name": "Vorkuta Airport", "city": "Vorkuta", "coordinates_lat": "63.9930992126465", "coordinates_long": "67.4886016845703", "timezone": "Europe/Moscow" }
+{ "airport_code": "UUA", "airport_name": "Bugulma Airport", "city": "Bugulma", "coordinates_lat": "52.801700592041", "coordinates_long": "54.6399993896484", "timezone": "Europe/Moscow" }
+{ "airport_code": "JOK", "airport_name": "Yoshkar-Ola Airport", "city": "Yoshkar-Ola", "coordinates_lat": "47.9047012329102", "coordinates_long": "56.7005996704102", "timezone": "Europe/Moscow" }
+{ "airport_code": "CSY", "airport_name": "Cheboksary Airport", "city": "Cheboksary", "coordinates_lat": "47.3473014831543", "coordinates_long": "56.0903015136719", "timezone": "Europe/Moscow" }
+{ "airport_code": "ULY", "airport_name": "Ulyanovsk East Airport", "city": "Ulyanovsk", "coordinates_lat": "48.8027000427246", "coordinates_long": "54.4010009765625", "timezone": "Europe/Samara" }
+{ "airport_code": "OSW", "airport_name": "Orsk Airport", "city": "Orsk", "coordinates_lat": "58.5956001281738", "coordinates_long": "51.0724983215332", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "PEZ", "airport_name": "Penza Airport", "city": "Penza", "coordinates_lat": "45.0210990905762", "coordinates_long": "53.1105995178223", "timezone": "Europe/Moscow" }
+{ "airport_code": "SKX", "airport_name": "Saransk Airport", "city": "Saransk", "coordinates_lat": "45.2122573852539", "coordinates_long": "54.125129699707", "timezone": "Europe/Moscow" }
+{ "airport_code": "TBW", "airport_name": "Donskoye Airport", "city": "Tambow", "coordinates_lat": "41.482799530029", "coordinates_long": "52.806098937988", "timezone": "Europe/Moscow" }
+{ "airport_code": "UKX", "airport_name": "Ust-Kut Airport", "city": "Ust-Kut", "coordinates_lat": "105.730003356934", "coordinates_long": "56.8567008972168", "timezone": "Asia/Irkutsk" }
+{ "airport_code": "GDZ", "airport_name": "Gelendzhik Airport", "city": "Gelendzhik", "coordinates_lat": "38.0124807358", "coordinates_long": "44.5820926295", "timezone": "Europe/Moscow" }
+{ "airport_code": "IAR", "airport_name": "Tunoshna Airport", "city": "Yaroslavl", "coordinates_lat": "40.157398223877", "coordinates_long": "57.5606994628906", "timezone": "Europe/Moscow" }
+{ "airport_code": "NBC", "airport_name": "Begishevo Airport", "city": "Nizhnekamsk", "coordinates_lat": "52.0924987792969", "coordinates_long": "55.5647010803223", "timezone": "Europe/Moscow" }
+{ "airport_code": "ULV", "airport_name": "Ulyanovsk Baratayevka Airport", "city": "Ulyanovsk", "coordinates_lat": "48.2266998291", "coordinates_long": "54.2682991028", "timezone": "Europe/Samara" }
+{ "airport_code": "SWT", "airport_name": "Strezhevoy Airport", "city": "Strezhevoy", "coordinates_lat": "77.6600036621", "coordinates_long": "60.709400177", "timezone": "Asia/Krasnoyarsk" }
+{ "airport_code": "EYK", "airport_name": "Beloyarskiy Airport", "city": "Beloyarsky", "coordinates_lat": "66.698600769", "coordinates_long": "63.6869010925", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "KLF", "airport_name": "Grabtsevo Airport", "city": "Kaluga", "coordinates_lat": "36.3666687012", "coordinates_long": "54.5499992371", "timezone": "Europe/Moscow" }
+{ "airport_code": "RGK", "airport_name": "Gorno-Altaysk Airport", "city": "Gorno-Altaysk", "coordinates_lat": "85.8332977295", "coordinates_long": "51.9667015076", "timezone": "Asia/Krasnoyarsk" }
+{ "airport_code": "KRR", "airport_name": "Krasnodar Pashkovsky International Airport", "city": "Krasnodar", "coordinates_lat": "39.170501708984", "coordinates_long": "45.034698486328", "timezone": "Europe/Moscow" }
+{ "airport_code": "MCX", "airport_name": "Uytash Airport", "city": "Makhachkala", "coordinates_lat": "47.6523017883301", "coordinates_long": "42.8167991638184", "timezone": "Europe/Moscow" }
+{ "airport_code": "KZN", "airport_name": "Kazan International Airport", "city": "Kazan", "coordinates_lat": "49.278701782227", "coordinates_long": "55.606201171875", "timezone": "Europe/Moscow" }
+{ "airport_code": "REN", "airport_name": "Orenburg Central Airport", "city": "Orenburg", "coordinates_lat": "55.4566993713379", "coordinates_long": "51.7957992553711", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "UFA", "airport_name": "Ufa International Airport", "city": "Ufa", "coordinates_lat": "55.874401092529", "coordinates_long": "54.557498931885", "timezone": "Asia/Yekaterinburg" }
+{ "airport_code": "OVB", "airport_name": "Tolmachevo Airport", "city": "Novosibirsk", "coordinates_lat": "82.650703430176", "coordinates_long": "55.012599945068", "timezone": "Asia/Novosibirsk" }
+{ "airport_code": "CEE", "airport_name": "Cherepovets Airport", "city": "Cherepovets", "coordinates_lat": "38.0158004761", "coordinates_long": "59.273601532", "timezone": "Europe/Moscow" }
+{ "airport_code": "OMS", "airport_name": "Omsk Central Airport", "city": "Omsk", "coordinates_lat": "73.3105010986328", "coordinates_long": "54.9669990539551", "timezone": "Asia/Omsk" }
+{ "airport_code": "ROV", "airport_name": "Rostov-on-Don Airport", "city": "Rostov", "coordinates_lat": "39.8180999756", "coordinates_long": "47.2582015991", "timezone": "Europe/Moscow" }
+{ "airport_code": "AER", "airport_name": "Sochi International Airport", "city": "Sochi", "coordinates_lat": "39.956600189209", "coordinates_long": "43.449901580811", "timezone": "Europe/Moscow" }
+{ "airport_code": "VOG", "airport_name": "Volgograd International Airport", "city": "Volgograd", "coordinates_lat": "44.3455009460449", "coordinates_long": "48.7825012207031", "timezone": "Europe/Volgograd" }
+{ "airport_code": "BQS", "airport_name": "Ignatyevo Airport", "city": "Blagoveschensk", "coordinates_lat": "127.412002563477", "coordinates_long": "50.4253997802734", "timezone": "Asia/Yakutsk" }
+{ "airport_code": "GDX", "airport_name": "Sokol Airport", "city": "Magadan", "coordinates_lat": "150.720001220703", "coordinates_long": "59.9109992980957", "timezone": "Asia/Magadan" }
+{ "airport_code": "HTA", "airport_name": "Chita-Kadala Airport", "city": "Chita", "coordinates_lat": "113.306", "coordinates_long": "52.026299", "timezone": "Asia/Chita" }
+{ "airport_code": "BTK", "airport_name": "Bratsk Airport", "city": "Bratsk", "coordinates_lat": "101.697998046875", "coordinates_long": "56.3706016540527", "timezone": "Asia/Irkutsk" }
+{ "airport_code": "IKT", "airport_name": "Irkutsk Airport", "city": "Irkutsk", "coordinates_lat": "104.38899993896", "coordinates_long": "52.268001556396", "timezone": "Asia/Irkutsk" }
+{ "airport_code": "UUD", "airport_name": "Ulan-Ude Airport (Mukhino)", "city": "Ulan-ude", "coordinates_lat": "107.438003540039", "coordinates_long": "51.8078002929687", "timezone": "Asia/Irkutsk" }
+{ "airport_code": "MMK", "airport_name": "Murmansk Airport", "city": "Murmansk", "coordinates_lat": "32.7508010864258", "coordinates_long": "68.7817001342773", "timezone": "Europe/Moscow" }
+{ "airport_code": "ABA", "airport_name": "Abakan Airport", "city": "Abakan", "coordinates_lat": "91.3850021362305", "coordinates_long": "53.7400016784668", "timezone": "Asia/Krasnoyarsk" }
+{ "airport_code": "BAX", "airport_name": "Barnaul Airport", "city": "Barnaul", "coordinates_lat": "83.5384979248047", "coordinates_long": "53.3638000488281", "timezone": "Asia/Krasnoyarsk" }
+{ "airport_code": "AAQ", "airport_name": "Anapa Vityazevo Airport", "city": "Anapa", "coordinates_lat": "37.347301483154", "coordinates_long": "45.002101898193", "timezone": "Europe/Moscow" }
+{ "airport_code": "CNN", "airport_name": "Chulman Airport", "city": "Neryungri", "coordinates_lat": "124.91400146484", "coordinates_long": "56.913898468018", "timezone": "Asia/Yakutsk" }
