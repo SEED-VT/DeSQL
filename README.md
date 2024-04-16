@@ -3,6 +3,9 @@
 *Sabaat Haroon, Chris Brown, and Muhammad Ali Gulzar. DeSQL: Interactive Debugging of SQL in
 Data-Intensive Scalable Computing. The ACM International Conference on the Foundations of Software Engineering (FSE). Article 35 (July 2024), 21 pages. https://doi.org/10.1145/3643761.*
 
+DeSQL is an interactive step-through debugging technique for DISC-backed SQL queries. This approach allows users to inspect constituent parts of a query and their corresponding intermediate data interactively, similar to watchpoints in gdb-like debuggers.
+
+
 # 1. Setting Up the Environment 
 ### Step 1.1: Pre-requisites (Optional)
 
