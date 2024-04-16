@@ -88,7 +88,7 @@ docker exec -it spark-local-container /opt/spark/bin/spark-submit \
 --class DeSqlPackage.SQLTest.SQLTest \
 --master "local[*]" \
 --conf "spark.some.config.option=some-value" \
-/opt/spark/app/desqlpackage_2.12-0.1.0-SNAPSHOT.jar /opt/spark/queries/quer5.sql
+/opt/spark/app/desqlpackage_2.12-0.1.0-SNAPSHOT.jar /opt/spark/queries/query5.sql
 ```
 
 > **Expected Observation:** DeSQL will start, and you can observe the logs in the console.
