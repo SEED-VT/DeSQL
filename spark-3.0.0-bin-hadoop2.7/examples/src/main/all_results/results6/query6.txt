@@ -1,0 +1,1 @@
+select * from customer where c_birth_year#115 > 1980 AND c_current_hdemo_sk#118 IN ( Select hd_demo_sk#33 from household_demographics where hd_dep_count#34 < 2 )$

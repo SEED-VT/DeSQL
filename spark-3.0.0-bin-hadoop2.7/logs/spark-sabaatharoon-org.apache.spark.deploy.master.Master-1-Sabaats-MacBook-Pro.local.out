@@ -1,0 +1,25 @@
+Spark Command: /opt/homebrew/Cellar/openjdk@17/17.0.9/libexec/openjdk.jdk/Contents/Home/bin/java -cp /Users/sabaatharoon/IdeaProjects/spark-3.0.0-bin-hadoop2.7/conf/:/Users/sabaatharoon/IdeaProjects/spark-3.0.0-bin-hadoop2.7/jars/* -Xmx1g org.apache.spark.deploy.master.Master --host Sabaats-MacBook-Pro.local --port 7077 --webui-port 8080
+========================================
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+24/04/14 22:54:13 INFO Master: Started daemon with process name: 93199@Sabaats-MacBook-Pro.local
+24/04/14 22:54:13 INFO SignalUtils: Registered signal handler for TERM
+24/04/14 22:54:13 INFO SignalUtils: Registered signal handler for HUP
+24/04/14 22:54:13 INFO SignalUtils: Registered signal handler for INT
+24/04/14 22:54:14 WARN Utils: Your hostname, Sabaats-MacBook-Pro.local resolves to a loopback address: 127.0.0.1; using 172.29.125.186 instead (on interface en0)
+24/04/14 22:54:14 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+24/04/14 22:54:14 ERROR SparkUncaughtExceptionHandler: Uncaught exception in thread Thread[main,5,main]
+java.lang.ExceptionInInitializerError
+	at org.apache.spark.unsafe.array.ByteArrayMethods.<clinit>(ByteArrayMethods.java:54)
+	at org.apache.spark.internal.config.package$.<init>(package.scala:1006)
+	at org.apache.spark.internal.config.package$.<clinit>(package.scala)
+	at org.apache.spark.deploy.master.MasterArguments.<init>(MasterArguments.scala:57)
+	at org.apache.spark.deploy.master.Master$.main(Master.scala:1121)
+	at org.apache.spark.deploy.master.Master.main(Master.scala)
+Caused by: java.lang.reflect.InaccessibleObjectException: Unable to make private java.nio.DirectByteBuffer(long,int) accessible: module java.base does not "opens java.nio" to unnamed module @2faa3708
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:354)
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(AccessibleObject.java:297)
+	at java.base/java.lang.reflect.Constructor.checkCanSetAccessible(Constructor.java:188)
+	at java.base/java.lang.reflect.Constructor.setAccessible(Constructor.java:181)
+	at org.apache.spark.unsafe.Platform.<clinit>(Platform.java:56)
+	... 6 more
+24/04/14 22:54:14 INFO ShutdownHookManager: Shutdown hook called

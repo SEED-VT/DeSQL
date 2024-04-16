@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <echo message="Shade netty native libraries to ${spark.shade.native.packageName}"/>
+  <unzip src="/Users/sabaatharoon/IdeaProjects/spark-sql-debug/common/network-yarn/target/scala-2.12/spark-3.0.0-yarn-shuffle.jar" dest="/Users/sabaatharoon/IdeaProjects/spark-sql-debug/common/network-yarn/target/exploded/"/>
+  <move file="/Users/sabaatharoon/IdeaProjects/spark-sql-debug/common/network-yarn/target/exploded/META-INF/native/libnetty_transport_native_epoll_x86_64.so" tofile="/Users/sabaatharoon/IdeaProjects/spark-sql-debug/common/network-yarn/target/exploded/META-INF/native/lib${spark.shade.native.packageName}_netty_transport_native_epoll_x86_64.so"/>
+  <move file="/Users/sabaatharoon/IdeaProjects/spark-sql-debug/common/network-yarn/target/exploded/META-INF/native/libnetty_transport_native_kqueue_x86_64.jnilib" tofile="/Users/sabaatharoon/IdeaProjects/spark-sql-debug/common/network-yarn/target/exploded/META-INF/native/lib${spark.shade.native.packageName}_netty_transport_native_kqueue_x86_64.jnilib"/>
+  <jar basedir="/Users/sabaatharoon/IdeaProjects/spark-sql-debug/common/network-yarn/target/exploded" destfile="/Users/sabaatharoon/IdeaProjects/spark-sql-debug/common/network-yarn/target/scala-2.12/spark-3.0.0-yarn-shuffle.jar"/>
+</target>
+</project>

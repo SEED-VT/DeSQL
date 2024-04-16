@@ -1,0 +1,1 @@
+Select * from customer where c_customer_sk > 6 OR c_customer_sk < 19

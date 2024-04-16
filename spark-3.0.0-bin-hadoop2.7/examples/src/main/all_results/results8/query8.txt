@@ -1,0 +1,1 @@
+SELECT cd_credit_rating,cd_demo_sk,cd_dep_college_count,cd_dep_count,cd_dep_employed_count,cd_education_status,cd_gender,cd_marital_status,cd_purchase_estimate, from customer_demographics where cd_demo_sk#8 > 3$
