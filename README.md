@@ -27,6 +27,19 @@ Additionally, you will need:
 git clone https://github.com/SEED-VT/DeSQL.git
 ```
 
+### Navigate to the cloned Repository
+```sh
+cd DeSQL
+```
+Ensure you can see all the files in this folder
+
+```sh
+ls
+```
+
+<img width="1333" alt="image" src="https://github.com/SEED-VT/DeSQL/assets/81311915/959ebc45-3a0c-4282-97d5-32b035749024">
+
+
 ### Clean Up
 
 Remove any system-generated files to prevent interference with Docker builds:
