@@ -66,7 +66,7 @@ Use Docker Compose to start the containers:
 ```sh
 docker compose up -d
 ```
-Here is what the successful initialization of a Docker container should look like:
+Here is what a successful initialization of a Docker container should look like:
 
 ![image (1)](https://github.com/SEED-VT/DeSQL/assets/81311915/48f59ab9-8918-4696-be8f-7f312b548acc)
 
@@ -171,7 +171,7 @@ Shut down the Docker containers:
 docker compose down
 ```
 
-Here is what the successful termination of a Docker container should look like:
+Here is what a successful termination of a Docker container should look like:
 ![Successful Docker Stop](https://github.com/SEED-VT/DeSQL/assets/81311915/05759dc4-fc08-4f9f-890d-f5d2987010a0)
 
 
@@ -191,7 +191,7 @@ Start the Vanilla Spark containers:
 docker compose up -d
 ```
 
-Here is what the successful initialization of a Docker container should look like:
+Here is what a successful initialization of a Docker container should look like:
 
 ![image (10)](https://github.com/SEED-VT/DeSQL/assets/81311915/b162564f-a8c7-4d6a-b1ff-f0f83e95623f)
 
@@ -216,7 +216,7 @@ Shut down the Docker containers:
 docker compose down
 ```
 
-Here is what the successful termination of a Docker container should look like:
+Here is what a successful termination of a Docker container should look like:
 ![image (11)](https://github.com/SEED-VT/DeSQL/assets/81311915/1e8bfc45-6aa1-4a90-ae5f-c1666a773b05)
 
 
