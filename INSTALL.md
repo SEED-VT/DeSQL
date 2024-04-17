@@ -28,9 +28,9 @@ Ensure Python 3 is installed by running `python3 --version` in your terminal. If
 Check if the required ports (4040 and 8080) are free on your system using the following command:
 ```bash
 sudo lsof -i :4040 -i :8080
+```
 If these ports are in use, you may need to free them or configure the software to use different ports.
 
-```markdown
 ### Step 4: Clone the DeSQL Repository
 Clone the DeSQL repository from GitHub to your local machine:
 ```sh
