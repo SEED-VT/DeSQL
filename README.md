@@ -115,10 +115,10 @@ Upon a successful launch, the DeSQL UI, accessible at [http://localhost:4040/deb
   - **Red nodes**: These nodes indicate queries that have been further decomposed into additional nodes. While these red nodes themselves do not hold data, their child nodes will contain the resultant data.
   
 The UI landing page with the original query on the left side and plan tree on the right side:
-- ![View of the plan tree](https://github.com/SEED-VT/DeSQL/assets/81311915/277ae90e-2f23-4cd2-8974-36a2608226e8)
+![View of the plan tree](https://github.com/SEED-VT/DeSQL/assets/81311915/277ae90e-2f23-4cd2-8974-36a2608226e8)
 
 As you scroll, you'll encounter the complete list of possible subqueries of the original query along with their respective data:
-- ![Subqueries and data](https://github.com/SEED-VT/DeSQL/assets/81311915/0d0ec1bd-30f9-4e88-942d-2412f06b1adc)
+![Subqueries and data](https://github.com/SEED-VT/DeSQL/assets/81311915/0d0ec1bd-30f9-4e88-942d-2412f06b1adc)
 
 ### Interacting with Data
 Each subquery includes a "View Rows" button, enabling users to examine the data associated with each subquery:
