@@ -67,7 +67,7 @@ Use Docker Compose to start the containers:
 docker compose up -d
 ```
 
-![image](https://github.com/SEED-VT/DeSQL/assets/81311915/dc345fc0-cca3-49fb-ab0b-19340444e3f5)
+![image (1)](https://github.com/SEED-VT/DeSQL/assets/81311915/48f59ab9-8918-4696-be8f-7f312b548acc)
 
 
 > **TROUBLESHOOTING:** If Docker Compose fails, restart Docker:
