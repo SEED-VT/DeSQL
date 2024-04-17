@@ -141,7 +141,7 @@ To exit the running application, go to the terminal where Step 2.1 was performed
 
 # 3. DeSQL Evaluations 
 
-### Warning: Results Reproducibility Disclaimer
+### Results Reproducibility Disclaimer
 
 *Please be aware that the results reproduced here are **not** indicative of the actual overhead comparisons between DeSQL and Vanilla Spark, as reported in the research paper. The reported findings in the paper were derived from a 12-node cluster, comprising 1 name node and 11 data nodes collectively offering 104 cores, 53TB of storage, and 576GB of memory.*
 
