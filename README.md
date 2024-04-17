@@ -66,7 +66,7 @@ Use Docker Compose to start the containers:
 ```sh
 docker compose up -d
 ```
-A successful docker container start will look like this.
+Here is an example of what the successful initialization of a Docker container looks like:
 
 ![image (1)](https://github.com/SEED-VT/DeSQL/assets/81311915/48f59ab9-8918-4696-be8f-7f312b548acc)
 
@@ -114,7 +114,6 @@ Upon a successful launch, the DeSQL UI, accessible at [http://localhost:4040/deb
   - **Green nodes**: These are clickable and directly correspond to subqueries. Users can interact with these nodes to go directly to their respective subqueries by clicking on those nodes.
   - **Red nodes**: These nodes indicate queries that have been further decomposed into additional nodes. While these red nodes themselves do not hold data, their child nodes will contain the resultant data.
   
-### Visual Aids
 The UI landing page with the original query on the left side and plan tree on the right side:
 - ![View of the plan tree](https://github.com/SEED-VT/DeSQL/assets/81311915/277ae90e-2f23-4cd2-8974-36a2608226e8)
 
@@ -125,10 +124,10 @@ As you scroll, you'll encounter the complete list of possible subqueries of the 
 Each subquery includes a "View Rows" button, enabling users to examine the data associated with each subquery:
 - ![View Rows](https://github.com/SEED-VT/DeSQL/assets/81311915/dca2cba3-f9cb-4b43-9630-cf7e848eff1c)
 
-For better readability, the first five rows of each query are displayed initially, with an option to load more:
+For better readability, the first five rows of each query are displayed initially, with an option to show more. Each click on load more will load another 5 rows of the query:
 - ![Show More Rows](https://github.com/SEED-VT/DeSQL/assets/81311915/fe920eff-6085-4702-86ba-a45f3120b957)
 
-### Detailed Query Examination
+### Plan to Query Mapping
 Clicking on the green highlighted node, such as one labeled `cd_gender=F`, will directly navigate to its corresponding subquery, providing a focused view on that particular segment:
 - ![Highlighted Node Interaction](https://github.com/SEED-VT/DeSQL/assets/81311915/fe631cdd-47f5-4b4c-89ef-5c47520016b9)
 - ![Resultant Subquery](https://github.com/SEED-VT/DeSQL/assets/81311915/186864ff-f118-4a29-b720-28b6daeb7288)
@@ -136,7 +135,6 @@ Clicking on the green highlighted node, such as one labeled `cd_gender=F`, will 
 
 ### Step 2.3: Terminating DeSQL 
 To exit the running application, go to the terminal where Step 2.1 was performed and simply press Enter.
-
 
 
 # 3. DeSQL Evaluations 
@@ -171,6 +169,10 @@ Shut down the Docker containers:
 docker compose down
 ```
 
+Here is an example of what the successful termination of a Docker container looks like:
+![Successful Docker Stop](https://github.com/SEED-VT/DeSQL/assets/81311915/05759dc4-fc08-4f9f-890d-f5d2987010a0)
+
+
 ### Step 3.2: Collecting Experiment Results for Vanilla Apache Spark
 
 Change the directory to Vanilla Spark and build the Docker image:
@@ -186,6 +188,11 @@ Start the Vanilla Spark containers:
 ```sh
 docker compose up -d
 ```
+
+Here is an example of what the successful initialization of a Docker container looks like:
+
+![image (10)](https://github.com/SEED-VT/DeSQL/assets/81311915/b162564f-a8c7-4d6a-b1ff-f0f83e95623f)
+
 
 Execute the script to gather results from Vanilla Spark:
 
@@ -207,6 +214,10 @@ Shut down the Docker containers:
 docker compose down
 ```
 
+Here is an example of what the successful termination of a Docker container looks like:
+![image (11)](https://github.com/SEED-VT/DeSQL/assets/81311915/1e8bfc45-6aa1-4a90-ae5f-c1666a773b05)
+
+
 Navigate to the parent directory:
 
 ```sh
@@ -221,11 +232,23 @@ Install necessary Python packages for analysis:
 python3 -m pip install matplotlib pandas
 ```
 
+Here is the example of what a successful run of this command looks like:
+
+![image (12)](https://github.com/SEED-VT/DeSQL/assets/81311915/e1ff8743-64c2-49f4-8186-18b5df85757d)
+
+
+
 Execute the analysis script:
 
 ```sh
 python3 script.py ./spark-sql-debug/data1.txt ./spark-3.0.0-bin-hadoop2.7/data2.txt
 ```
+
+Running this command will generate a graph and should automatically appear on your screen. A successful run of this command will show you a graph similar to this:
+
+![image (13)](https://github.com/SEED-VT/DeSQL/assets/81311915/e0d206d8-ec34-4e6e-b9d7-3f7d6681c689)
+
+
 
 ### Step 3.4: Removing Docker Containers
 Now you can remove docker containers from your local system:
