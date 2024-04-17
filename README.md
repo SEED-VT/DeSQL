@@ -66,7 +66,7 @@ Use Docker Compose to start the containers:
 ```sh
 docker compose up -d
 ```
-Here is an example of what the successful initialization of a Docker container looks like:
+Here is what the successful initialization of a Docker container should look like:
 
 ![image (1)](https://github.com/SEED-VT/DeSQL/assets/81311915/48f59ab9-8918-4696-be8f-7f312b548acc)
 
@@ -122,13 +122,13 @@ As you scroll, you'll encounter the complete list of possible subqueries of the 
 
 ### Interacting with Data
 Each subquery includes a "View Rows" button, enabling users to examine the data associated with each subquery:
-- ![View Rows](https://github.com/SEED-VT/DeSQL/assets/81311915/dca2cba3-f9cb-4b43-9630-cf7e848eff1c)
+<img width="759" alt="image (5)" src="https://github.com/SEED-VT/DeSQL/assets/81311915/75bf2c08-4a0b-4257-a94e-b0d39d36fb3c">
 
-For better readability, the first five rows of each query are displayed initially, with an option to show more. Each click on load more will load another 5 rows of the query:
-- ![Show More Rows](https://github.com/SEED-VT/DeSQL/assets/81311915/fe920eff-6085-4702-86ba-a45f3120b957)
+For better readability, the first five rows of each query are displayed initially, with an option to show more. Each click on show more will load another 5 rows of the query:
+<img width="768" alt="image (6)" src="https://github.com/SEED-VT/DeSQL/assets/81311915/5e5033f2-8853-4ef6-a30b-37370ff8c391">
 
 ### Plan to Query Mapping
-Clicking on the green highlighted node, such as one labeled `cd_gender=F`, will directly navigate to its corresponding subquery, providing a focused view on that particular segment:
+Clicking on the green node, such as one highlighted `cd_gender=F`, will directly navigate to its corresponding subquery, providing a focused view on that subquery:
 - ![Highlighted Node Interaction](https://github.com/SEED-VT/DeSQL/assets/81311915/fe631cdd-47f5-4b4c-89ef-5c47520016b9)
 - ![Resultant Subquery](https://github.com/SEED-VT/DeSQL/assets/81311915/186864ff-f118-4a29-b720-28b6daeb7288)
 
@@ -169,7 +169,7 @@ Shut down the Docker containers:
 docker compose down
 ```
 
-Here is an example of what the successful termination of a Docker container looks like:
+Here is what the successful termination of a Docker container should look like:
 ![Successful Docker Stop](https://github.com/SEED-VT/DeSQL/assets/81311915/05759dc4-fc08-4f9f-890d-f5d2987010a0)
 
 
@@ -189,7 +189,7 @@ Start the Vanilla Spark containers:
 docker compose up -d
 ```
 
-Here is an example of what the successful initialization of a Docker container looks like:
+Here is what the successful initialization of a Docker container should look like:
 
 ![image (10)](https://github.com/SEED-VT/DeSQL/assets/81311915/b162564f-a8c7-4d6a-b1ff-f0f83e95623f)
 
@@ -214,7 +214,7 @@ Shut down the Docker containers:
 docker compose down
 ```
 
-Here is an example of what the successful termination of a Docker container looks like:
+Here is what the successful termination of a Docker container should look like:
 ![image (11)](https://github.com/SEED-VT/DeSQL/assets/81311915/1e8bfc45-6aa1-4a90-ae5f-c1666a773b05)
 
 
