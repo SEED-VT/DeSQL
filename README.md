@@ -122,9 +122,11 @@ As you scroll, you'll encounter the complete list of possible subqueries of the 
 
 ### Interacting with Data
 Each subquery includes a "View Rows" button, enabling users to examine the data associated with each subquery:
+
 <img width="759" alt="image (5)" src="https://github.com/SEED-VT/DeSQL/assets/81311915/75bf2c08-4a0b-4257-a94e-b0d39d36fb3c">
 
-For better readability, the first five rows of each query are displayed initially, with an option to show more. Each click on show more will load another 5 rows of the query:
+For better readability, the first five rows of each query are displayed initially, with an option to show more. Each click on Show More will load another 5 rows of the query:
+
 <img width="768" alt="image (6)" src="https://github.com/SEED-VT/DeSQL/assets/81311915/5e5033f2-8853-4ef6-a30b-37370ff8c391">
 
 ### Plan to Query Mapping
