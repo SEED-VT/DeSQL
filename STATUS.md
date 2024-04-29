@@ -5,7 +5,7 @@
 ### `Functional` and `Reusable`
 - **Streamlined Setup Documentation**: DeSQL artifacts provide clear and detailed documentation that guides users through a verified local setup process, ensuring the system is both functional and resuable, which streamlines the experience from installation to utilization.
 - **Docker Support**: DeSQL includes comprehensive Docker support, streamlining the setup process. This ensures that users can easily create a consistent debugging environment, making the tool both functional and convenient to reuse across various systems.
-- **Local Setup Option**: Recognizing that setting up a cluster node environment can be challenging and out of reach for many individuals, DeSQL provides a local setup alternative. This enables users to experience and utilize the full capabilities of DeSQL without the need for a complex cluster configuration, thereby enhancing the tool's accessibility and reuse potential.
+- **Local Setup Option**: Recognizing that setting up a cluster node environment can be challenging and out of reach for many individuals, DeSQL provides a local setup alternative. This enables users to experience and utilize the full capabilities of DeSQL without the need for a complex cluster configuration, thereby enhancing the tool's availability and reuse potential.
 
 ### `Artifacts Available`
 
