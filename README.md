@@ -13,11 +13,14 @@ Ensure that `docker` is installed and running on your system. If it's not instal
 
 These instructions have been verified with:
 - **MacOS:** ProductVersion: 11.2.3, BuildVersion: 20D91
+- **Ubuntu:** 22.04 LTS
 - **Docker:** 20.10.22, build 3a2c30b
 
 Additionally, you will need:
 - Python3
 - Ports 4040 and 8080 should be available for DeSQL UI and Vanilla Spark UI, respectively.
+
+- Note: This ReadMe is not directly compatible with Windows; users will need to modify the commands to fit the Windows format.
 
 ### Step 1.2: Creating the Docker Image
 
