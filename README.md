@@ -20,7 +20,7 @@ Additionally, you will need:
 - Python3
 - Ports 4040 and 8080 should be available for DeSQL UI and Vanilla Spark UI, respectively.
 
-- Note: This ReadMe is not directly compatible with Windows; users will need to modify the commands to fit the Windows format.
+  Note: This ReadMe is not directly compatible with Windows; users will need to modify the commands to fit the Windows format.
 
 ### Step 1.2: Creating the Docker Image
 
